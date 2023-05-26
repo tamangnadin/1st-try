@@ -1,2 +1,2 @@
-# 1st-try
-IDK what should i do HAHA
+#1st
+this is my first time using github
